@@ -3,6 +3,7 @@
 Link to webServer: http://predict2019t2.biosci.gatech.edu/
 
 **1) resources:** Contains the pages
+
 **2) routes:** Contain the redirections 
 
 Our team's goal was to handle unassembled Salmonella enterica genome sequence data. Our pipeline proceeds through various stages: genome assembly, gene prediction, functional annotation, and comparative genomics. The objective was to create a predictive webserver that weaves in these various elements in a seamless manner for the user, who will not be required to possess extensive computing knowledge.
